@@ -1,14 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 :root {
-    --primary-color: #0D1821
-        /* Rich Black */
-        --secondary-color: #515127
-        /* Dark Moss Green */
-        --accent1-color: #6C6C91
-        /* Ultra Violet */
-        --accent2-color: #91689A
-        /* Pomp and Power */
-        --heading-font: "Josefin Sans", sans-serif;
+    --primary-color: #0D1821;
+    /* Rich Black */
+    --secondary-color: #515127;
+    /* Dark Moss Green */
+    --accent1-color: #6C6C91;
+    /* Ultra Violet */
+    --accent2-color: #91689A;
+    /* Pomp and Power */
+    --heading-font: "Josefin Sans", sans-serif;
+    /* text fonts */
     --body-font: "PT Sans", sans-serf;
 }
 
