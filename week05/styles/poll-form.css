@@ -13,7 +13,7 @@ body {
     background: #fff;
 }
 
-Example header {
+header {
     margin: 0 auto;
     width: 650px;
 }
@@ -35,7 +35,7 @@ form {
     display: grid;
 }
 
-Example fieldset {
+fieldset {
     display: grid;
     grid-gap: .5rem;
     margin: 1rem;
@@ -62,14 +62,14 @@ label {
     padding-right: 1rem;
 }
 
-Example input,
+input,
 select,
 textarea {
     padding: 0.5rem;
     font-size: 1.1rem;
 }
 
-Example input[type="checkbox"] {
+input[type="checkbox"] {
     width: 22px;
     height: 22px;
     vertical-align: bottom;
@@ -89,7 +89,7 @@ button:hover {
     background-color: darkgreen;
 }
 
-Style the footer Example footer {
+footer {
     margin: 1rem auto 0;
     width: 650px;
     text-align: center;
